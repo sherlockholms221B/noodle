@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/ixahmedxi/noodle/blob/main/apps/web/public/android-chrome-192x192.png?raw=true" alt="Noodle logo" width="75">  
-  <h1>Noodle <br> Rethinking Student Productivity</h1>
+  <h1>Noodle <br> Rethinking Student </h1>
   <br>
 </div>
 
